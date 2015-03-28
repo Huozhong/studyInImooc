@@ -37,7 +37,7 @@ a:link,a:visited,a:focus{text-decoration: none;outline: none;}
 	transform:translate3d(0,0,0) rotate3d(1,1,1,0) scale3d(1,1,1);}	
 
 .tooltip-content:after{display: block;content:'';width: 30px;height:20px;
-	background: url(../img/tooltip1.svg) no-repeat center center;position: absolute;top:100%;left:50%;
+	background: url(../showinfo_img/tooltip1.svg) no-repeat center center;position: absolute;top:100%;left:50%;
 	margin:-7px 0 0 -15px;}
 
 .tooltip-effect-1 .tooltip-content{-webkit-transform: translate3d(0,10px,0) rotate3d(1,1,1,45deg);
